@@ -1,5 +1,11 @@
 ---
-title: "index"
+title: "David"
 output: html_document
 ---
-##Hola
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Hola
